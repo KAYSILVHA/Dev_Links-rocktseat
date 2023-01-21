@@ -10,12 +10,9 @@ DevLinks é um projeto exclusivo e gratuito, promovido pela Rocketseat para ensi
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
   
 </p>
-<br>
+
 <p align="center">
-  <img alt="projeto DevLinks" src="./github/desktop.png" width="100%">
-</p>
-<p align="center">
-  <img alt="projeto DevLinks" src="./github/dispositivosMoveis.png" width="100%">
+  <img alt="projeto DevLinks para desktop e dispositivos móveis" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
